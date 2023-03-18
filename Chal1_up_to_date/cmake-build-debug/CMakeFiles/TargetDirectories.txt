@@ -1,0 +1,3 @@
+C:/Users/Davide Galbiati/Desktop/Chal1/cmake-build-debug/CMakeFiles/chal1.dir
+C:/Users/Davide Galbiati/Desktop/Chal1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Davide Galbiati/Desktop/Chal1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
