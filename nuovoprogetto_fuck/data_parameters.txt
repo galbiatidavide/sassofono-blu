@@ -1,0 +1,10 @@
+forcing_term = -t*exp(-y)
+initial_datum = 0
+
+starting_time = 0
+final_time = 1
+
+number_steps = 100
+n_max_it = 100
+tol_fun  = 1e-14
+tol_x    = 1e-14

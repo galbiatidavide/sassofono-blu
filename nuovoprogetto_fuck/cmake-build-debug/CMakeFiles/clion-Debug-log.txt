@@ -1,0 +1,1 @@
+CMakeLists.txt not found in \\wsl.localhost\Ubuntu\home\davidegalbiati\pacs-examples\nuovoprogetto_fuck Select CMakeLists.txt
