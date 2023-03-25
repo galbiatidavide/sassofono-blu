@@ -1,0 +1,11 @@
+Once you have found the value of y_{n+1} using the Newton-Raphson method, you can use it to calculate the value of y_n+1 explicitly using the Crank-Nicolson scheme formula:
+
+y_{n+1} = y_n + (h/2)*(f(t_n, y_n) + f(t_{n+1}, y_{n+1}))
+
+In the case of the specific differential equation y'(t) = -t exp(-y(t)), the formula becomes:
+
+y_{n+1} = y_n - (h/2)*[t_n exp(-y_n) + t_{n+1} exp(-y_{n+1})]
+
+where y_n and t_n are known values from the previous time step, h is the time step size, and y_{n+1} is the value you found using the Newton-Raphson method.
+
+You can repeat this process for each time step n to obtain a numerical solution for y(t) at any time t.
