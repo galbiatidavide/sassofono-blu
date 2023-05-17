@@ -1,3 +1,0 @@
-C:/Users/Davide Galbiati/Desktop/challenge_02/Challenge_02/cmake-build-debug/CMakeFiles/Challenge_02.dir
-C:/Users/Davide Galbiati/Desktop/challenge_02/Challenge_02/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Davide Galbiati/Desktop/challenge_02/Challenge_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
